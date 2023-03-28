@@ -1,0 +1,14 @@
+{
+  "name": "hl7_message_parse-server",
+  "version": "1.0.0",
+  "description": "HL7_Message_Parse-Server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LuckyPig3400",
+  "license": "ISC",
+  "dependencies": {
+    "mllp-node": "^2.0.0"
+  }
+}
